@@ -24,6 +24,10 @@ Background in **Molecular Biotechnology**, interested in building scalable tools
 Production-oriented tool that downloads web pages and assets with concurrent processing, error handling, and progress visualization.  
 → Node.js · Async workflows · CLI architecture · CI
 
+🔹 **RSS Feed Aggregator**  
+Production-oriented web application that allows users to add, validate, and monitor RSS feeds through an interactive interface with asynchronous updates, modal previews, and read-state tracking.  
+→ Frontend architecture · Async data flows · Form validation · Testing · CI
+
 🔹 **Difference Calculator CLI**  
 Application to compare configuration files (JSON/YAML) and display structured differences in multiple formats.  
 → Parsing · Testing · Clean architecture · Formatter design
@@ -41,19 +45,30 @@ Interactive terminal-based logic games with modular engine design and user input
 - HTML / CSS
 - Python (learning)
 
+**Frontend & Web**
+- DOM manipulation
+- Form validation
+- State-driven UI logic
+- RSS/XML data handling
+- REST / HTTP fundamentals
+- Internationalization (i18next)
+
 **Engineering Practices**
-- Automated Testing (Jest)
+- Automated Testing (Jest, Vitest)
 - CI/CD (GitHub Actions)
 - ESLint / Prettier
 - Modular Architecture
 - Structured Error Handling
+- Maintainable Code Practices
 
 **Tools & Environment**
 - Git / GitHub
 - Linux
 - VS Code
 - CLI development
-- REST / HTTP fundamentals
+- Vite
+- Axios
+- Yup
 
 ---
 

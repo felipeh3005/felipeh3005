@@ -83,4 +83,5 @@ Biological Engineer with experience in **genetic data analysis and scientific re
 
 📧 felipeh3005@gmail.com  
 🌎 Medellín — Colombia  
-💼 Open to collaboration on **challenging backend or fullstack projects**
+💼 Open to collaboration on **challenging backend or fullstack projects**  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/felipe-higuita-web-developer/)
